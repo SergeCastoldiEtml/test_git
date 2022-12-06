@@ -143,6 +143,7 @@ void APP_Tasks ( void )
         {
             bool appInitialized = true;
        
+            //modifs init
         
             if (appInitialized)
             {
