@@ -156,12 +156,8 @@ void APP_Tasks ( void )
         {
         
             //4e test
-<<<<<<< .merge_file_a18440
             
             //test 7
-=======
-            //encore de modifs... 6e
->>>>>>> .merge_file_a18864
             break;
         }
 
