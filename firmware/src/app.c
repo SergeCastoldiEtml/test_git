@@ -159,6 +159,8 @@ void APP_Tasks ( void )
             
             //test 7
             //encore de modifs... 6e
+            
+            // service tasks
             break;
         }
 
